@@ -1,0 +1,5 @@
+{
+      "ip":"FarlandsSmpFBH.aternos.me",
+      "port":"56722",
+      "name":"FBH"
+}
